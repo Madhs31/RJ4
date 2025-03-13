@@ -1,0 +1,22 @@
+{
+  "name": "rj4",
+  "version": "1.0.0",
+   "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madhs31/RJ4.git"
+  },
+  "keywords": [
+    "poo"
+  ],
+  "author": "Maria Diniz",
+  "license": "ISC",
+  "bugs": {
+  },
+  "homepage": "",
+  "description": ""
+}
